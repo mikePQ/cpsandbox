@@ -1,4 +1,4 @@
-package week1.threebonacci;
+package week1.problem3;
 
 import mooc.EdxIO;
 

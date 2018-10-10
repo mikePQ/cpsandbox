@@ -1,4 +1,4 @@
-package week1.ab2;
+package week1.problem2;
 
 import mooc.EdxIO;
 
